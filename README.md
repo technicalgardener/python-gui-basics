@@ -1,2 +1,2 @@
 # jubilant-succotash
-IT121
+IT121 - Basic Python
