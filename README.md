@@ -5,8 +5,13 @@ Python Repository
 A personal journey through python
 
 ---------------------------------------------
-
-common git commands:
+# recent changes:
+    -added new information about creating GUIs in python
+    
+    -restructured the directory to help direct to updated notes
+    
+---------------------------------------------
+# common git commands:
 
 git status - check your local version changes against the master. Useful to check your next step
 
