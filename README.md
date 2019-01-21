@@ -4,7 +4,7 @@ Python Repository
 
 A personal journey through python
 
-
+---------------------------------------------
 
 common git commands:
 
@@ -27,6 +27,3 @@ git clone (http link from githup) - create a local clone of one of your reposito
 git - displays a list of git commands
 
 git help (git command) - takes you to a online wiki for help regarding a git command and its usage
-
-=======
-
