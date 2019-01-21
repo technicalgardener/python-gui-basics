@@ -1,6 +1,8 @@
 # jubilant-succotash
-<<<<<<< HEAD
+=======
+
 Python Repository
+
 A personal journey through python
 
 common git commands:
@@ -19,7 +21,8 @@ git pull - update your local machine with the latest online changes
 git clone (http link from githup) - create a local clone of one of your repositories (copies the online repository to your machine)
 
 git - displays a list of git commands
+
 git help (git command) - takes you to a online wiki for help regarding a git command and its usage
+
 =======
-IT121 - Basic Python
->>>>>>> 622e21a47afafff2dfb1abe7ad0e46cf253b6d85
+
