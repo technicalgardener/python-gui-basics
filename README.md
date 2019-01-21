@@ -6,7 +6,7 @@ A personal journey through python
 
 ---------------------------------------------
 # recent changes:
-    -added new information about creating GUIs in python
+    -added new directory with information about creating GUIs in python
     
     -restructured the directory to help direct to updated notes
     
