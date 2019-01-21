@@ -1,1 +1,1 @@
-the labs section includes prompts for practicing concepts, and each has seperate samples that I have come up with
+the labs section includes prompts for practicing concepts, and each has examples that I have come up with in the 'Lab Samples' folder
