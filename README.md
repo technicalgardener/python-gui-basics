@@ -1,9 +1,10 @@
 # jubilant-succotash
-=======
 
 Python Repository
 
 A personal journey through python
+
+
 
 common git commands:
 
